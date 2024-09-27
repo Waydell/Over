@@ -1,20 +1,20 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Gods Of All Era",
+		"leaderName": "Wayy",
+		"adjective": ["SuperHumen"],
+		"startBias": ["All"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Ayo Buat Negara Terkuat Sobat",
+		"startIntroPart2": "Ini Adalah Negara Terkuat, Tapi Nanti di masa depan jika kau berhasil wkwk",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"declaringWar": "Saatnya membuat kau mengerti kenapa nama kami Over",
+		"attacked": "Aku Akan Melihat Sehebat apa kau",
+		"defeated": "Aku kalah hahaha!! Bodoh sekali Bahkan dengan kekuatan sebesar ini kay masih kalah berhenti main saja Pecundang.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Apa kabar?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
